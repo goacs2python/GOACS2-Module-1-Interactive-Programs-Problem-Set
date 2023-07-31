@@ -1,4 +1,4 @@
-# Module 2 Part 2 Problems
+# Module 1 Interactive Programs
 
 Please choose 4 of the problems from our assignment page to complete.
 
